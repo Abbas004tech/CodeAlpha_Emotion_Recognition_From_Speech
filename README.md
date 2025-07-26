@@ -58,9 +58,6 @@ To classify human emotions such as **happy**, **angry**, **sad**, **calm**, **fe
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
-Name: Ali Abbas
-Internship Program: CodeAlpha Machine Learning Internship
-Project: Emotion Recognition from Speech
 
 🌐 References
 
